@@ -1,0 +1,21 @@
+body {
+    color: #2F4858;
+  }
+  
+  html {
+    background-color: #77dcee;  
+  }
+  
+  nav {
+    height: 6rem;
+  }
+  
+  nav ul a,
+  nav .brand-logo,
+  .page-footer, 
+  .page-footer .footer-copyright,
+  #dividerL, 
+  #dividerR,
+  .nav-wrapper {
+    color:#2F4858;
+  }

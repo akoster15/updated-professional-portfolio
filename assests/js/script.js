@@ -1,4 +1,4 @@
 //Function that starts parallax abilities at start of page load 
-$(document).ready(funtion () {
+$(document).ready(function () {
     $(".parallax").parallax();
 });
